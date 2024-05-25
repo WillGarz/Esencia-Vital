@@ -1,0 +1,13 @@
+/* src/components/Footer.css */
+.footer {
+    padding: 20px;
+    background-color: rgba(161, 78, 172, 0.8); /* Fondo morado semitransparente */
+    border-radius: 10px; /* Bordes redondeados opcionales */
+    color: #ffffff; /* Asegúrate de que el texto sea blanco */
+    text-align: center; /* Alinear el texto al centro */
+    margin-top: 20px; /* Margen superior para separar el footer del contenido */
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+  
